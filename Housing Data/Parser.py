@@ -5,7 +5,7 @@ class HousingDataParser(object):
 
 
     def __init__(self):
-        self.csvFileName = "ZipCodeMedianHousingPrices.csv"
+        self.csvFileName = "CountyMedianHousingPrices.csv"
 
 
 
@@ -17,9 +17,9 @@ class HousingDataParser(object):
             yearIndexStart = fields.index("1996-04")    #This is the first year data is available
 
             data = []
-            f=1
             for row in reader:
-                zip_code = row[fields.index("ZipCode")]
+                county = row[fields.index("County")]
+                state = row[fields.index("State")]
                 prices = row[yearIndexStart:]      #grabs all price rows (even empty ones)
                 nonEmptyYearsAndPrices = [(fields[i+yearIndexStart],p) for i,p in enumerate(prices) if p]  #filter out any data where there is no price for a given year
                 mostRecentYear, mostRecentPrice = nonEmptyYearsAndPrices[-1]        
@@ -27,7 +27,8 @@ class HousingDataParser(object):
                 year, month = self._parseYearString(mostRecentYear)
                  
                 data.append({
-                    "zip_code" : int(zip_code),
+                    "county" : county,
+                    "state" : state,
                     "median_price" : float(mostRecentPrice), 
                     "year" : year, 
                     "month": month})
@@ -57,7 +58,7 @@ if __name__ == "__main__":
 
     json_data = parser.getJSONFormatString(data)
 
-    with open("MedianHousingPrices.json", "w") as f:
+    with open("Json/CountyMedianHousingPrices.json", "w") as f:
         f.write(json_data)
         
 
