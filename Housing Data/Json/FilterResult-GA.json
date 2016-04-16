@@ -1,0 +1,870 @@
+[
+    {
+        "county": "Fulton", 
+        "median_price": 277625.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Gwinnett", 
+        "median_price": 184065.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Dekalb", 
+        "median_price": 200125.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Cobb", 
+        "median_price": 195590.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Chatham", 
+        "median_price": 171925.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Clayton", 
+        "median_price": 69000.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Cherokee", 
+        "median_price": 202525.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Henry", 
+        "median_price": 142450.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Richmond", 
+        "median_price": 94660.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Muscogee", 
+        "median_price": 124750.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Hall", 
+        "median_price": 170000.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Forsyth", 
+        "median_price": 266250.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Bibb", 
+        "median_price": 115815.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Paulding", 
+        "median_price": 142350.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Houston", 
+        "median_price": 127975.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Douglas", 
+        "median_price": 142800.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Coweta", 
+        "median_price": 175000.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Columbia", 
+        "median_price": 163600.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Clarke", 
+        "median_price": 151625.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Carroll", 
+        "median_price": 120925.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Lowndes", 
+        "median_price": 130640.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Fayette", 
+        "median_price": 246450.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Whitfield", 
+        "median_price": 116765.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Bartow", 
+        "median_price": 135200.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Newton", 
+        "median_price": 123715.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Floyd", 
+        "median_price": 116235.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Dougherty", 
+        "median_price": 95325.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Rockdale", 
+        "median_price": 132965.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Walton", 
+        "median_price": 148750.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Glynn", 
+        "median_price": 183875.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Bulloch", 
+        "median_price": 143735.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Barrow", 
+        "median_price": 134250.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Walker", 
+        "median_price": 111500.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Troup", 
+        "median_price": 104425.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Spalding", 
+        "median_price": 90125.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Catoosa", 
+        "median_price": 129950.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Liberty", 
+        "median_price": 102215.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Jackson", 
+        "median_price": 168000.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Gordon", 
+        "median_price": 127050.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Effingham", 
+        "median_price": 146740.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Camden", 
+        "median_price": 157285.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Laurens", 
+        "median_price": 121600.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Baldwin", 
+        "median_price": 166775.0, 
+        "month": 10, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Colquitt", 
+        "median_price": 105350.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Thomas", 
+        "median_price": 122090.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Habersham", 
+        "median_price": 125550.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Coffee", 
+        "median_price": 102965.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Polk", 
+        "median_price": 75935.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Tift", 
+        "median_price": 115670.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Murray", 
+        "median_price": 115415.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Ware", 
+        "median_price": 103307.6923, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Sumter", 
+        "median_price": 59000.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Oconee", 
+        "median_price": 233775.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Harris", 
+        "median_price": 211585.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Bryan", 
+        "median_price": 193330.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Wayne", 
+        "median_price": 102582.3529, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Lumpkin", 
+        "median_price": 138000.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Pickens", 
+        "median_price": 166600.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Haralson", 
+        "median_price": 94725.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Jones", 
+        "median_price": 142941.1765, 
+        "month": 9, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Lee", 
+        "median_price": 134235.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Gilmer", 
+        "median_price": 155950.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Madison", 
+        "median_price": 129050.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Decatur", 
+        "median_price": 140000.0, 
+        "month": 11, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Peach", 
+        "median_price": 131923.0769, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Toombs", 
+        "median_price": 123000.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Upson", 
+        "median_price": 73230.7692, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "White", 
+        "median_price": 124850.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Monroe", 
+        "median_price": 163067.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Stephens", 
+        "median_price": 85150.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Chattooga", 
+        "median_price": 48700.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Tattnall", 
+        "median_price": 125000.0, 
+        "month": 9, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Hart", 
+        "median_price": 125384.6154, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Grady", 
+        "median_price": 118235.2941, 
+        "month": 11, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Fannin", 
+        "median_price": 171923.0769, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Butts", 
+        "median_price": 78115.3846, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Mitchell", 
+        "median_price": 82100.0, 
+        "month": 8, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Crisp", 
+        "median_price": 157500.0, 
+        "month": 6, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Burke", 
+        "median_price": 79423.0769, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Emanuel", 
+        "median_price": 76000.0, 
+        "month": 4, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Dawson", 
+        "median_price": 173565.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Franklin", 
+        "median_price": 109850.0, 
+        "month": 11, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Meriwether", 
+        "median_price": 65550.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "McDuffie", 
+        "median_price": 82900.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Dodge", 
+        "median_price": 46500.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2011
+    }, 
+    {
+        "county": "Worth", 
+        "median_price": 110500.0, 
+        "month": 8, 
+        "state": "GA", 
+        "year": 2013
+    }, 
+    {
+        "county": "Union", 
+        "median_price": 146705.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Putnam", 
+        "median_price": 169250.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Washington", 
+        "median_price": 36000.0, 
+        "month": 8, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Elbert", 
+        "median_price": 63076.9231, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Berrien", 
+        "median_price": 104500.0, 
+        "month": 7, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Pierce", 
+        "median_price": 117075.0, 
+        "month": 8, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Banks", 
+        "median_price": 148846.1538, 
+        "month": 6, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Lamar", 
+        "median_price": 93080.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Appling", 
+        "median_price": 70000.0, 
+        "month": 8, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Pike", 
+        "median_price": 181050.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Morgan", 
+        "median_price": 226250.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Ben Hill", 
+        "median_price": 79000.0, 
+        "month": 8, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Cook", 
+        "median_price": 60000.0, 
+        "month": 6, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Jefferson", 
+        "median_price": 42710.0, 
+        "month": 7, 
+        "state": "GA", 
+        "year": 2014
+    }, 
+    {
+        "county": "Dade", 
+        "median_price": 104765.0, 
+        "month": 2, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Rabun", 
+        "median_price": 144800.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Brooks", 
+        "median_price": 137500.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2013
+    }, 
+    {
+        "county": "Greene", 
+        "median_price": 270384.6154, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Jeff Davis", 
+        "median_price": 53500.0, 
+        "month": 7, 
+        "state": "GA", 
+        "year": 2012
+    }, 
+    {
+        "county": "Oglethorpe", 
+        "median_price": 134176.4706, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Screven", 
+        "median_price": 75000.0, 
+        "month": 8, 
+        "state": "GA", 
+        "year": 2012
+    }, 
+    {
+        "county": "Long", 
+        "median_price": 164750.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2013
+    }, 
+    {
+        "county": "McIntosh", 
+        "median_price": 155000.0, 
+        "month": 10, 
+        "state": "GA", 
+        "year": 2013
+    }, 
+    {
+        "county": "Jasper", 
+        "median_price": 55230.7692, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Bleckley", 
+        "median_price": 73253.0769, 
+        "month": 4, 
+        "state": "GA", 
+        "year": 2012
+    }, 
+    {
+        "county": "Pulaski", 
+        "median_price": 58500.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2014
+    }, 
+    {
+        "county": "Heard", 
+        "median_price": 91115.3846, 
+        "month": 9, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Early", 
+        "median_price": 85000.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2012
+    }, 
+    {
+        "county": "Evans", 
+        "median_price": 119332.0, 
+        "month": 6, 
+        "state": "GA", 
+        "year": 2012
+    }, 
+    {
+        "county": "Towns", 
+        "median_price": 172950.0, 
+        "month": 1, 
+        "state": "GA", 
+        "year": 2016
+    }, 
+    {
+        "county": "Lanier", 
+        "median_price": 123382.0, 
+        "month": 10, 
+        "state": "GA", 
+        "year": 2013
+    }, 
+    {
+        "county": "Irwin", 
+        "median_price": 27500.0, 
+        "month": 9, 
+        "state": "GA", 
+        "year": 2012
+    }, 
+    {
+        "county": "Hancock", 
+        "median_price": 127000.0, 
+        "month": 7, 
+        "state": "GA", 
+        "year": 2015
+    }, 
+    {
+        "county": "Terrell", 
+        "median_price": 30000.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2012
+    }, 
+    {
+        "county": "Turner", 
+        "median_price": 250000.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2009
+    }, 
+    {
+        "county": "Seminole", 
+        "median_price": 73000.0, 
+        "month": 5, 
+        "state": "GA", 
+        "year": 2013
+    }, 
+    {
+        "county": "Miller", 
+        "median_price": 338500.0, 
+        "month": 12, 
+        "state": "GA", 
+        "year": 2009
+    }, 
+    {
+        "county": "Quitman", 
+        "median_price": 69420.0, 
+        "month": 6, 
+        "state": "GA", 
+        "year": 2011
+    }
+]

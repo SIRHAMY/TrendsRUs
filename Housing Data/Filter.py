@@ -11,7 +11,7 @@ PRICE_THRESHOLD = 350000
 with open(FULL_JSON_FILE_NAME) as f:
     json_data = json.loads(f.read())
 
-    filtered_data = [x for x in json_data if x['median_price'] <= PRICE_THRESHOLD]
+    filtered_data = [x for x in json_data if x['median_price'] <= PRICE_THRESHOLD and x['state'] == 'GA']
 
 
 
