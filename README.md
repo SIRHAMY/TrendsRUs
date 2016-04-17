@@ -3,8 +3,8 @@ Identifying highly rated business clusters in relatively undervalued geographic 
 
 ## Datasets
 
--Yelp Challenge Data
--Zillow Housing Price Data
+* Yelp Challenge Data
+* Zillow Housing Price Data
 
 ## Mockup
 
