@@ -1,5 +1,5 @@
 #<-- Thomas Barnes -->
-import json
+import json, urllib2
 
 restaurantList = []
 with open('yelp_academic_dataset_business.json') as f:
@@ -32,7 +32,18 @@ for i in range(0,len(restaurantList)):
 		temp[2] = round(float(temp[0]) / temp[1],3)
 		stars_dict[str(restaurantList[i]['zip'])] = temp
 	except:
-		stars_dict[str(restaurantList[i]['zip'])] = [restaurantList[i]['stars'], 1, restaurantList[i]['stars']]
+		strzip = str(restaurantList[i]['zip'])
+		jumble = urllib2.urlopen('http://www.zip-info.com/cgi-local/zipsrch.exe?cnty=cnty&zip='+strzip+'&Go=Go').read()
+		#for i in range(0,30):
+		ind = jumble.find("<td align=center>"+strzip)
+		newjumble = jumble[ind+51:]
+		ind = newjumble.find("</font>")
+		county = newjumble[0:ind]
+		if len(county) > 30:
+			county = None
+		stars_dict[str(restaurantList[i]['zip'])] = [restaurantList[i]['stars'], 1, restaurantList[i]['stars'], county]
+
+
 with open('yelp_zip_codes_info.json','w') as outfile:
 	json.dump(restaurantList, outfile)
 with open('yelp_avg_rating_by_zip.json','w') as outfile:
